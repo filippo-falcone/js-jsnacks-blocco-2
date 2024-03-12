@@ -17,4 +17,5 @@ for (let i = 0; i < userNumber.length; i++) {
     console.log(thisNumber);
     sum += thisNumber;
 }
+// Output
 alert(sum);
